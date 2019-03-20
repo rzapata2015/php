@@ -1,0 +1,21 @@
+.imagenppal{
+	text-align:center;
+}
+.ordenamiento{
+	cursor:pointer;
+}
+.ordenamiento th{
+	background-image: url(../../image/ordenamiento.png);
+	background-position: right;
+	background-repeat: no-repeat;
+	padding-right:15px;
+}
+th.headerSortUp{ 
+    background-image: url(../../image/ordenamientoabajo.png); 
+} 
+th.headerSortDown{ 
+    background-image: url(../../image/ordenamientoarriba.png); 
+}
+th{
+	white-space: nowrap;
+}
